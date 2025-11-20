@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Isinya Modul Praktek</p>
+<p align="left">Isinya Modul Praktek PBO</p>
 
 ###
 
